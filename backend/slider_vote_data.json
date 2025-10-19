@@ -1,0 +1,302 @@
+[
+  {
+    "id": 808787,
+    "text": "llm",
+    "field": "Computer Science",
+    "subfield": "Artificial Intelligence"
+  },
+  {
+    "id": 338201,
+    "text": "emsl",
+    "field": "Earth and Planetary Sciences",
+    "subfield": "Geophysics"
+  },
+  {
+    "id": 127455,
+    "text": "covid",
+    "field": "Medicine",
+    "subfield": "Oncology"
+  },
+  {
+    "id": 1029371,
+    "text": "supplementary figure",
+    "field": "Biochemistry, Genetics and Molecular Biology",
+    "subfield": "Molecular Biology"
+  },
+  {
+    "id": 976045,
+    "text": "magnetic field",
+    "field": "Biochemistry, Genetics and Molecular Biology",
+    "subfield": "Biophysics"
+  },
+  {
+      "id": 65212,
+      "text": "collection",
+      "field": "Engineering",
+      "subfield": "Ocean Engineering"
+  },
+  {
+      "id": 41910,
+      "text": "students",
+      "field": "Social Sciences",
+      "subfield": "Education"
+  },
+  {
+      "id": 1163257,
+      "text": "carbon capture",
+      "field": "Energy",
+      "subfield": "Renewable Energy, Sustainability and the Environment"
+  },
+  {
+      "id": 801,
+      "text": "data",
+      "field": "Computer Science",
+      "subfield": "Artificial Intelligence"
+  },
+  {
+    "id": 192190,
+    "text": "museum",
+    "field": "Engineering",
+    "subfield": "Ocean Engineering"
+  },
+  {
+      "id": 1115403,
+      "text": "edge computing",
+      "field": "Computer Science",
+      "subfield": "Computer Networks and Communications"
+  },
+  {
+      "id": 92869,
+      "text": "class",
+      "field": "Earth and Planetary Sciences",
+      "subfield": "Atmospheric Science"
+  },
+  {
+      "id": 88968,
+      "text": "functions",
+      "field": "Energy",
+      "subfield": "Energy Engineering and Power Technology"
+  },
+  {
+      "id": 62655,
+      "text": "status",
+      "field": "Materials Science",
+      "subfield": "Polymers and Plastics"
+  },
+  {
+      "id": 1077809,
+      "text": "image segmentation",
+      "field": "Computer Science",
+      "subfield": "Computer Vision and Pattern Recognition"
+  },
+  {
+      "id": 1523485,
+      "text": "james webb space telescope",
+      "field": "Physics and Astronomy",
+      "subfield": "Astronomy and Astrophysics"
+  },
+  {
+      "id": 1089183,
+      "text": "crispr cas9",
+      "field": "Biochemistry, Genetics and Molecular Biology",
+      "subfield": "Genetics"
+  },
+  {
+      "id": 232874,
+      "text": "figure",
+      "field": "Medicine",
+      "subfield": "Oncology"
+  },
+  {
+      "id": 1327723,
+      "text": "sglt2 inhibitor",
+      "field": "Medicine",
+      "subfield": "Endocrinology, Diabetes and Metabolism"
+  },
+  {
+    "id": 826755,
+    "text": "pancasila",
+    "field": "Social Sciences",
+    "subfield": "Education"
+  },
+  {
+    "id": 1069635,
+    "text": "materials project",
+    "field": "Materials Science",
+    "subfield": "Materials Chemistry"
+  },
+  {
+    "id": 566565,
+    "text": "cent",
+    "field": "Social Sciences",
+    "subfield": "Anthropology"
+  },
+  {
+      "id": 47877,
+      "text": "project",
+      "field": "Earth and Planetary Sciences",
+      "subfield": "Geophysics"
+    },
+  {
+    "id": 1041785,
+    "text": "language models",
+    "field": "Computer Science",
+    "subfield": "Artificial Intelligence"
+  },
+  {
+    "id": 802314,
+    "text": "chatgpt",
+    "field": "Medicine",
+    "subfield": "Health Informatics"
+  },
+  {
+    "id": 420173,
+    "text": "coronavirus",
+    "field": "Medicine",
+    "subfield": "Infectious Diseases"
+  },
+  {
+    "id": 643669,
+    "text": "saude",
+    "field": "Health Professions",
+    "subfield": "General Health Professions"
+  },
+  {
+    "id": 59736,
+    "text": "simulation",
+    "field": "Physics and Astronomy",
+    "subfield": "Astronomy and Astrophysics"
+  },
+  {
+    "id": 972893,
+    "text": "specimen data",
+    "field": "Agricultural and Biological Sciences",
+    "subfield": "Plant Science"
+  },
+  {
+    "id": 1045902,
+    "text": "black hole",
+    "field": "Physics and Astronomy",
+    "subfield": "Astronomy and Astrophysics"
+  },
+  {
+      "id": 870533,
+      "text": "exoplanet",
+      "field": "Physics and Astronomy",
+      "subfield": "Astronomy and Astrophysics"
+  },
+  {
+    "id": 865060,
+    "text": "bionomia",
+    "field": "Agricultural and Biological Sciences",
+    "subfield": "Plant Science"
+  },
+  {
+    "id": 1539487,
+    "text": "annual meeting american association cancer",
+    "field": "Biochemistry, Genetics and Molecular Biology",
+    "subfield": "Molecular Biology"
+  },
+  {
+    "id": 1400481,
+    "text": "list threatened species",
+    "field": "Agricultural and Biological Sciences",
+    "subfield": "Plant Science"
+  },
+  {
+    "id": 1414247,
+    "text": "american urological association",
+    "field": "Medicine",
+    "subfield": "Pulmonary and Respiratory Medicine"
+  },
+  {
+    "id": 1447169,
+    "text": "dresden porcelain collection",
+    "field": "Arts and Humanities",
+    "subfield": "Archeology"
+  },
+  {
+    "id": 1462556,
+    "text": "steatotic liver disease",
+    "field": "Medicine",
+    "subfield": "Epidemiology"
+  },
+  {
+    "id": 584873,
+    "text": "antitumor",
+    "field": "Medicine",
+    "subfield": "Oncology"
+  },
+  {
+    "id": 1309642,
+    "text": "delta variant",
+    "field": "Medicine",
+    "subfield": "Infectious Diseases"
+  },
+  {
+    "id": 1058291,
+    "text": "fine tuning",
+    "field": "Computer Science",
+    "subfield": "Artificial Intelligence"
+  },
+  {
+    "id": 1093837,
+    "text": "post covid",
+    "field": "Medicine",
+    "subfield": "Neurology"
+  },
+  {
+    "id": 968749,
+    "text": "artificial intelligence",
+    "field": "Computer Science",
+    "subfield": "Computer Science Applications"
+  },
+  {
+    "id": 1296025,
+    "text": "personal compensation",
+    "field": "Medicine",
+    "subfield": "Pathology and Forensic Medicine"
+  },
+  {
+    "id": 218310,
+    "text": "biodiversity",
+    "field": "Agricultural and Biological Sciences",
+    "subfield": "Ecology, Evolution, Behavior and Systematics"
+  },
+  {
+    "id": 1459808,
+    "text": "baskaner protocol method",
+    "field": "Neuroscience",
+    "subfield": "Cellular and Molecular Neuroscience"
+  },
+  {
+    "id": 634829,
+    "text": "mcgregor",
+    "field": "Engineering",
+    "subfield": "Ocean Engineering"
+  },
+  {
+    "id": 1151046,
+    "text": "high entropy",
+    "field": "Energy",
+    "subfield": "Renewable Energy, Sustainability and the Environment"
+  },
+  {
+    "id": 1270881,
+    "text": "green hydrogen",
+    "field": "Engineering",
+    "subfield": "Renewable Energy, Sustainability and the Environment"
+  },
+  {
+    "id": 1290814,
+    "text": "organic photovoltaics",
+    "field": "Engineering",
+    "subfield": "Electrical and Electronic Engineering"
+  },
+  {
+    "id": 1385520,
+    "text": "perovskite photovoltaics",
+    "field": "Engineering",
+    "subfield": "Electrical and Electronic Engineering"
+  }
+]

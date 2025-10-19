@@ -1,0 +1,1402 @@
+[
+  {
+    "left": {
+      "id": 808787,
+      "text": "llm",
+      "field": "Computer Science",
+      "subfield": "Artificial Intelligence"
+    },
+    "right": {
+      "id": 338201,
+      "text": "emsl",
+      "field": "Earth and Planetary Sciences",
+      "subfield": "Geophysics"
+    }
+  },
+  {
+    "left": {
+      "id": 127455,
+      "text": "covid",
+      "field": "Medicine",
+      "subfield": "Oncology"
+    },
+    "right": {
+      "id": 127451,
+      "text": "covid",
+      "field": "Medicine",
+      "subfield": "Infectious Diseases"
+    }
+  },
+  {
+    "left": {
+      "id": 62655,
+      "text": "status",
+      "field": "Materials Science",
+      "subfield": "Polymers and Plastics"
+    },
+    "right": {
+      "id": 976045,
+      "text": "magnetic field",
+      "field": "Biochemistry, Genetics and Molecular Biology",
+      "subfield": "Biophysics"
+    }
+  },
+  {
+    "left": {
+      "id": 192190,
+      "text": "museum",
+      "field": "Engineering",
+      "subfield": "Ocean Engineering"
+    },
+    "right": {
+      "id": 826755,
+      "text": "pancasila",
+      "field": "Social Sciences",
+      "subfield": "Education"
+    }
+  },
+  {
+    "left": {
+      "id": 47877,
+      "text": "project",
+      "field": "Earth and Planetary Sciences",
+      "subfield": "Geophysics"
+    },
+    "right": {
+      "id": 232874,
+      "text": "figure",
+      "field": "Medicine",
+      "subfield": "Oncology"
+    }
+  },
+  {
+    "left": {
+      "id": 346648,
+      "text": "ai",
+      "field": "Medicine",
+      "subfield": "Health Informatics"
+    },
+    "right": {
+      "id": 346600,
+      "text": "ai",
+      "field": "Computer Science",
+      "subfield": "Artificial Intelligence"
+    }
+  },
+  {
+    "left": {
+      "id": 1041785,
+      "text": "language models",
+      "field": "Computer Science",
+      "subfield": "Artificial Intelligence"
+    },
+    "right": {
+      "id": 802314,
+      "text": "chatgpt",
+      "field": "Medicine",
+      "subfield": "Health Informatics"
+    }
+  },
+  {
+    "left": {
+      "id": 420173,
+      "text": "coronavirus",
+      "field": "Medicine",
+      "subfield": "Infectious Diseases"
+    },
+    "right": {
+      "id": 71699,
+      "text": "strong",
+      "field": "Earth and Planetary Sciences",
+      "subfield": "Atmospheric Science"
+    }
+  },
+  {
+    "left": {
+      "id": 92869,
+      "text": "class",
+      "field": "Earth and Planetary Sciences",
+      "subfield": "Atmospheric Science"
+    },
+    "right": {
+      "id": 88968,
+      "text": "functions",
+      "field": "Energy",
+      "subfield": "Energy Engineering and Power Technology"
+    }
+  },
+  {
+    "left": {
+      "id": 59736,
+      "text": "simulation",
+      "field": "Physics and Astronomy",
+      "subfield": "Astronomy and Astrophysics"
+    },
+    "right": {
+      "id": 972893,
+      "text": "specimen data",
+      "field": "Agricultural and Biological Sciences",
+      "subfield": "Plant Science"
+    }
+  },
+  {
+    "left": {
+      "id": 1045902,
+      "text": "black hole",
+      "field": "Physics and Astronomy",
+      "subfield": "Astronomy and Astrophysics"
+    },
+    "right": {
+      "id": 865060,
+      "text": "bionomia",
+      "field": "Agricultural and Biological Sciences",
+      "subfield": "Plant Science"
+    }
+  },
+  {
+    "left": {
+      "id": 1539487,
+      "text": "annual meeting american association cancer",
+      "field": "Biochemistry, Genetics and Molecular Biology",
+      "subfield": "Molecular Biology"
+    },
+    "right": {
+      "id": 1400481,
+      "text": "list threatened species",
+      "field": "Agricultural and Biological Sciences",
+      "subfield": "Plant Science"
+    }
+  },
+  {
+    "left": {
+      "id": 65212,
+      "text": "collection",
+      "field": "Engineering",
+      "subfield": "Ocean Engineering"
+    },
+    "right": {
+      "id": 41910,
+      "text": "students",
+      "field": "Social Sciences",
+      "subfield": "Education"
+    }
+  },
+  {
+    "left": {
+      "id": 1447169,
+      "text": "dresden porcelain collection",
+      "field": "Arts and Humanities",
+      "subfield": "Archeology"
+    },
+    "right": {
+      "id": 1462556,
+      "text": "steatotic liver disease",
+      "field": "Medicine",
+      "subfield": "Epidemiology"
+    }
+  },
+  {
+    "left": {
+      "id": 801,
+      "text": "data",
+      "field": "Computer Science",
+      "subfield": "Artificial Intelligence"
+    },
+    "right": {
+      "id": 1058291,
+      "text": "fine tuning",
+      "field": "Computer Science",
+      "subfield": "Artificial Intelligence"
+    }
+  },
+  {
+    "left": {
+      "id": 1309642,
+      "text": "delta variant",
+      "field": "Medicine",
+      "subfield": "Infectious Diseases"
+    },
+    "right": {
+      "id": 346278,
+      "text": "pembelajaran",
+      "field": "Social Sciences",
+      "subfield": "Education"
+    }
+  },
+  {
+    "left": {
+      "id": 1093837,
+      "text": "post covid",
+      "field": "Medicine",
+      "subfield": "Neurology"
+    },
+    "right": {
+      "id": 968749,
+      "text": "artificial intelligence",
+      "field": "Computer Science",
+      "subfield": "Computer Science Applications"
+    }
+  },
+  {
+    "left": {
+      "id": 1296025,
+      "text": "personal compensation",
+      "field": "Medicine",
+      "subfield": "Pathology and Forensic Medicine"
+    },
+    "right": {
+      "id": 218310,
+      "text": "biodiversity",
+      "field": "Agricultural and Biological Sciences",
+      "subfield": "Ecology, Evolution, Behavior and Systematics"
+    }
+  },
+  {
+    "left": {
+      "id": 945703,
+      "text": "kalba",
+      "field": "Arts and Humanities",
+      "subfield": "Archeology"
+    },
+    "right": {
+      "id": 696343,
+      "text": "mcgregor",
+      "field": "Social Sciences",
+      "subfield": "Sociology and Political Science"
+    }
+  },
+  {
+    "left": {
+      "id": 1459808,
+      "text": "baskaner protocol method",
+      "field": "Neuroscience",
+      "subfield": "Cellular and Molecular Neuroscience"
+    },
+    "right": {
+      "id": 634829,
+      "text": "mcgregor",
+      "field": "Engineering",
+      "subfield": "Ocean Engineering"
+    }
+  },
+  {
+    "left": {
+      "id": 1151046,
+      "text": "high entropy",
+      "field": "Energy",
+      "subfield": "Renewable Energy, Sustainability and the Environment"
+    },
+    "right": {
+      "id": 1270881,
+      "text": "green hydrogen",
+      "field": "Engineering",
+      "subfield": "Renewable Energy, Sustainability and the Environment"
+    }
+  },
+  {
+    "left": {
+      "id": 1290814,
+      "text": "organic photovoltaics",
+      "field": "Engineering",
+      "subfield": "Electrical and Electronic Engineering"
+    },
+    "right": {
+      "id": 1385520,
+      "text": "perovskite photovoltaics",
+      "field": "Engineering",
+      "subfield": "Electrical and Electronic Engineering"
+    }
+  },
+  {
+    "left": {
+      "id": 816491,
+      "text": "gamification",
+      "field": "Social Sciences",
+      "subfield": "Education"
+    },
+    "right": {
+      "id": 1369964,
+      "text": "flipped classrooms",
+      "field": "Social Sciences",
+      "subfield": "Education"
+    }
+  },
+  {
+    "left": {
+      "id": 816491,
+      "text": "gamification",
+      "field": "Social Sciences",
+      "subfield": "Education"
+    },
+    "right": {
+      "id": 1197374,
+      "text": "work home",
+      "field": "Economics, Econometrics and Finance",
+      "subfield": "Economics and Econometrics"
+    }
+  },
+  {
+    "left": {
+      "id": 1350719,
+      "text": "prompt engineering",
+      "field": "Computer Science",
+      "subfield": "Artificial Intelligence"
+    },
+    "right": {
+      "id": 808787,
+      "text": "llm",
+      "field": "Computer Science",
+      "subfield": "Artificial Intelligence"
+    }
+  },
+  {
+    "left": {
+      "id": 938014,
+      "text": "cas12a",
+      "field": "Biochemistry, Genetics and Molecular Biology",
+      "subfield": "Molecular Biology"
+    },
+    "right": {
+      "id": 1549827,
+      "text": "single cell rna sequencing scrna",
+      "field": "Biochemistry, Genetics and Molecular Biology",
+      "subfield": "Molecular Biology"
+    }
+  },
+  {
+    "left": {
+      "id": 1112812,
+      "text": "blockchain technology",
+      "field": "Computer Science",
+      "subfield": "Information Systems"
+    },
+    "right": {
+      "id": 802312,
+      "text": "chatgpt",
+      "field": "Computer Science",
+      "subfield": "Information Systems"
+    }
+  },
+  {
+    "left": {
+      "id": 899264,
+      "text": "yolov5",
+      "field": "Computer Science",
+      "subfield": "Computer Vision and Pattern Recognition"
+    },
+    "right": {
+      "id": 1247993,
+      "text": "vision language",
+      "field": "Computer Science",
+      "subfield": "Computer Vision and Pattern Recognition"
+    }
+  },
+  {
+    "left": {
+      "id": 542693,
+      "text": "transformer",
+      "field": "Computer Science",
+      "subfield": "Computer Vision and Pattern Recognition"
+    },
+    "right": {
+      "id": 1198834,
+      "text": "diffusion models",
+      "field": "Computer Science",
+      "subfield": "Computer Vision and Pattern Recognition"
+    }
+  },
+  {
+    "left": {
+      "id": 1411602,
+      "text": "large language models",
+      "field": "Computer Science",
+      "subfield": "Artificial Intelligence"
+    },
+    "right": {
+      "id": 1139219,
+      "text": "federated learning",
+      "field": "Computer Science",
+      "subfield": "Artificial Intelligence"
+    }
+  },
+  {
+    "left": {
+      "id": 1369035,
+      "text": "stable diffusion",
+      "field": "Computer Science",
+      "subfield": "Computer Vision and Pattern Recognition"
+    },
+    "right": {
+      "id": 899264,
+      "text": "yolov5",
+      "field": "Computer Science",
+      "subfield": "Computer Vision and Pattern Recognition"
+    }
+  },
+  {
+    "left": {
+      "id": 1369035,
+      "text": "stable diffusion",
+      "field": "Computer Science",
+      "subfield": "Computer Vision and Pattern Recognition"
+    },
+    "right": {
+      "id": 1481202,
+      "text": "neural radiance fields",
+      "field": "Computer Science",
+      "subfield": "Computer Vision and Pattern Recognition"
+    }
+  },
+  {
+    "left": {
+      "id": 867540,
+      "text": "metaverse",
+      "field": "Computer Science",
+      "subfield": "Human-Computer Interaction"
+    },
+    "right": {
+      "id": 1019561,
+      "text": "virtual reality",
+      "field": "Computer Science",
+      "subfield": "Human-Computer Interaction"
+    }
+  },
+  {
+    "left": {
+      "id": 837915,
+      "text": "mxene",
+      "field": "Materials Science",
+      "subfield": "Materials Chemistry"
+    },
+    "right": {
+      "id": 1488638,
+      "text": "perovskite thin film",
+      "field": "Engineering",
+      "subfield": "Electrical and Electronic Engineering"
+    }
+  },
+  {
+    "left": {
+      "id": 935731,
+      "text": "alphafold",
+      "field": "Biochemistry, Genetics and Molecular Biology",
+      "subfield": "Molecular Biology"
+    },
+    "right": {
+      "id": 1502603,
+      "text": "single cell rna sequencing",
+      "field": "Immunology and Microbiology",
+      "subfield": "Immunology"
+    }
+  },
+  {
+    "left": {
+      "id": 849015,
+      "text": "cryptocurrency",
+      "field": "Business, Management and Accounting",
+      "subfield": "Management Information Systems"
+    },
+    "right": {
+      "id": 1112812,
+      "text": "blockchain technology",
+      "field": "Computer Science",
+      "subfield": "Information Systems"
+    }
+  },
+  {
+    "left": {
+      "id": 849015,
+      "text": "microplastics",
+      "field": "Environmental Science",
+      "subfield": "Pollution"
+    },
+    "right": {
+      "id": 1112812,
+      "text": "nanoplastics",
+      "field": "Environmental Science",
+      "subfield": "Pollution"
+    }
+  },
+  {
+    "left": {
+      "id": 802310,
+      "text": "chatgpt",
+      "field": "Computer Science",
+      "subfield": "Artificial Intelligence"
+    },
+    "right": {
+      "id": 914375,
+      "text": "bard",
+      "field": "Medicine",
+      "subfield": "Health Informatics"
+    }
+  },
+  {
+    "left": {
+      "id": 878345,
+      "text": "llama",
+      "field": "Computer Science",
+      "subfield": "Artificial Intelligence"
+    },
+    "right": {
+      "id": 899132,
+      "text": "roberta",
+      "field": "Computer Science",
+      "subfield": "Artificial Intelligence"
+    }
+  },
+  {
+    "left": {
+      "id": 1139219,
+      "text": "federated learning",
+      "field": "Computer Science",
+      "subfield": "Artificial Intelligence"
+    },
+    "right": {
+      "id": 1115403,
+      "text": "edge computing",
+      "field": "Computer Science",
+      "subfield": "Computer Networks and Communications"
+    }
+  },
+  {
+    "left": {
+      "id": 1350719,
+      "text": "prompt engineering",
+      "field": "Computer Science",
+      "subfield": "Artificial Intelligence"
+    },
+    "right": {
+      "id": 1263534,
+      "text": "context learning",
+      "field": "Computer Science",
+      "subfield": "Artificial Intelligence"
+    }
+  },
+  {
+    "left": {
+      "id": 1239244,
+      "text": "knowledge distillation",
+      "field": "Computer Science",
+      "subfield": "Artificial Intelligence"
+    },
+    "right": {
+      "id": 715675,
+      "text": "quantization",
+      "field": "Computer Science",
+      "subfield": "Artificial Intelligence"
+    }
+  },
+  {
+    "left": {
+      "id": 897768,
+      "text": "unet",
+      "field": "Computer Science",
+      "subfield": "Artificial Intelligence"
+    },
+    "right": {
+      "id": 818910,
+      "text": "resnet",
+      "field": "Computer Science",
+      "subfield": "Computer Vision and Pattern Recognition"
+    }
+  },
+  {
+    "left": {
+      "id": 1482490,
+      "text": "post quantum cryptography",
+      "field": "Computer Science",
+      "subfield": "Artificial Intelligence"
+    },
+    "right": {
+      "id": 1444109,
+      "text": "quantum key distribution",
+      "field": "Physics and Astronomy",
+      "subfield": "Atomic and Molecular Physics, and Optics"
+    }
+  },
+  {
+    "left": {
+      "id": 1482364,
+      "text": "solid state battery",
+      "field": "Engineering",
+      "subfield": "Electrical and Electronic Engineering"
+    },
+    "right": {
+      "id": 1419196,
+      "text": "lithium ion battery",
+      "field": "Engineering",
+      "subfield": "Electrical and Electronic Engineering"
+    }
+  },
+  {
+    "left": {
+      "id": 1422569,
+      "text": "sea level rise",
+      "field": "Environmental Science",
+      "subfield": "Global and Planetary Change"
+    },
+    "right": {
+      "id": 1370740,
+      "text": "glacier retreat",
+      "field": "Earth and Planetary Sciences",
+      "subfield": "Atmospheric Science"
+    }
+  },
+  {
+    "left": {
+      "id": 1274037,
+      "text": "remote work",
+      "field": "Social Sciences",
+      "subfield": "Sociology and Political Science"
+    },
+    "right": {
+      "id": 938686,
+      "text": "telework",
+      "field": "Social Sciences",
+      "subfield": "Sociology and Political Science"
+    }
+  },
+  {
+    "left": {
+      "id": 1434145,
+      "text": "brain computer interface",
+      "field": "Neuroscience",
+      "subfield": "Cognitive Neuroscience"
+    },
+    "right": {
+      "id": 1386500,
+      "text": "neural interface",
+      "field": "Neuroscience",
+      "subfield": "Cellular and Molecular Neuroscience"
+    }
+  },
+  {
+    "left": {
+      "id": 1187529,
+      "text": "gravitational waves",
+      "field": "Physics and Astronomy",
+      "subfield": "Astronomy and Astrophysics"
+    },
+    "right": {
+      "id": 1337284,
+      "text": "neutrino oscillations",
+      "field": "Physics and Astronomy",
+      "subfield": "Nuclear and High Energy Physics"
+    }
+  },
+  {
+    "left": {
+      "id": 1115403,
+      "text": "edge computing",
+      "field": "Computer Science",
+      "subfield": "Computer Networks and Communications"
+    },
+    "right": {
+      "id": 1013498,
+      "text": "cloud computing",
+      "field": "Computer Science",
+      "subfield": "Information Systems"
+    }
+  },
+  {
+    "left": {
+      "id": 1054355,
+      "text": "3d printing",
+      "field": "Engineering",
+      "subfield": "Mechanical Engineering"
+    },
+    "right": {
+      "id": 1204741,
+      "text": "injection molding",
+      "field": "Engineering",
+      "subfield": "Mechanical Engineering"
+    }
+  },
+  {
+    "left": {
+      "id": 1384839,
+      "text": "instruction tuning",
+      "field": "Computer Science",
+      "subfield": "Artificial Intelligence"
+    },
+    "right": {
+      "id": 1366126,
+      "text": "beam search",
+      "field": "Computer Science",
+      "subfield": "Artificial Intelligence"
+    }
+  },
+  {
+    "left": {
+      "id": 1052599,
+      "text": "object detection",
+      "field": "Computer Science",
+      "subfield": "Computer Vision and Pattern Recognition"
+    },
+    "right": {
+      "id": 1077809,
+      "text": "image segmentation",
+      "field": "Computer Science",
+      "subfield": "Computer Vision and Pattern Recognition"
+    }
+  },
+  {
+    "left": {
+      "id": 1100413,
+      "text": "speech recognition",
+      "field": "Computer Science",
+      "subfield": "Signal Processing"
+    },
+    "right": {
+      "id": 1387330,
+      "text": "speaker diarization",
+      "field": "Computer Science",
+      "subfield": "Artificial Intelligence"
+    }
+  },
+  {
+    "left": {
+      "id": 1337492,
+      "text": "publish subscribe",
+      "field": "Computer Science",
+      "subfield": "Computer Networks and Communications"
+    },
+    "right": {
+      "id": 1355692,
+      "text": "unit testing",
+      "field": "Computer Science",
+      "subfield": "Software"
+    }
+  },
+  {
+    "left": {
+      "id": 883338,
+      "text": "quadrotor",
+      "field": "Engineering",
+      "subfield": "Aerospace Engineering"
+    },
+    "right": {
+      "id": 1268993,
+      "text": "fixed wing",
+      "field": "Engineering",
+      "subfield": "Aerospace Engineering"
+    }
+  },
+  {
+    "left": {
+      "id": 1233647,
+      "text": "topological insulator",
+      "field": "Physics and Astronomy",
+      "subfield": "Atomic and Molecular Physics, and Optics"
+    },
+    "right": {
+      "id": 1476696,
+      "text": "high temperature superconductor",
+      "field": "Physics and Astronomy",
+      "subfield": "Condensed Matter Physics"
+    }
+  },
+  {
+    "left": {
+      "id": 1450111,
+      "text": "hubble space telescope",
+      "field": "Physics and Astronomy",
+      "subfield": "Astronomy and Astrophysics"
+    },
+    "right": {
+      "id": 1523485,
+      "text": "james webb space telescope",
+      "field": "Physics and Astronomy",
+      "subfield": "Astronomy and Astrophysics"
+    }
+  },
+  {
+    "left": {
+      "id": 1195029,
+      "text": "cryo em",
+      "field": "Biochemistry, Genetics and Molecular Biology",
+      "subfield": "Structural Biology"
+    },
+    "right": {
+      "id": 1472421,
+      "text": "single molecule fluorescence",
+      "field": "Biochemistry, Genetics and Molecular Biology",
+      "subfield": "Molecular Biology"
+    }
+  },
+  {
+    "left": {
+      "id": 1366724,
+      "text": "base editing",
+      "field": "Biochemistry, Genetics and Molecular Biology",
+      "subfield": "Molecular Biology"
+    },
+    "right": {
+      "id": 1089183,
+      "text": "crispr cas9",
+      "field": "Biochemistry, Genetics and Molecular Biology",
+      "subfield": "Genetics"
+    }
+  },
+  {
+    "left": {
+      "id": 920002,
+      "text": "semaglutide",
+      "field": "Medicine",
+      "subfield": "Endocrinology, Diabetes and Metabolism"
+    },
+    "right": {
+      "id": 1327723,
+      "text": "sglt2 inhibitor",
+      "field": "Medicine",
+      "subfield": "Endocrinology, Diabetes and Metabolism"
+    }
+  },
+  {
+    "left": {
+      "id": 1231906,
+      "text": "wearable sensors",
+      "field": "Engineering",
+      "subfield": "Biomedical Engineering"
+    },
+    "right": {
+      "id": 1363566,
+      "text": "electronic skin",
+      "field": "Engineering",
+      "subfield": "Biomedical Engineering"
+    }
+  },
+  {
+    "left": {
+      "id": 1272480,
+      "text": "storm surge",
+      "field": "Earth and Planetary Sciences",
+      "subfield": "Earth-Surface Processes"
+    },
+    "right": {
+      "id": 1346250,
+      "text": "river flood",
+      "field": "Environmental Science",
+      "subfield": "Global and Planetary Change"
+    }
+  },
+  {
+    "left": {
+      "id": 1299164,
+      "text": "coastal erosion",
+      "field": "Earth and Planetary Sciences",
+      "subfield": "Earth-Surface Processes"
+    },
+    "right": {
+      "id": 1303523,
+      "text": "land subsidence",
+      "field": "Engineering",
+      "subfield": "Aerospace Engineering"
+    }
+  },
+  {
+    "left": {
+      "id": 799514,
+      "text": "misinformation",
+      "field": "Social Sciences",
+      "subfield": "Communication"
+    },
+    "right": {
+      "id": 878463,
+      "text": "disinformation",
+      "field": "Social Sciences",
+      "subfield": "Communication"
+    }
+  },
+  {
+    "left": {
+      "id": 1439871,
+      "text": "shape memory alloy",
+      "field": "Materials Science",
+      "subfield": "Materials Chemistry"
+    },
+    "right": {
+      "id": 807504,
+      "text": "cfrp",
+      "field": "Engineering",
+      "subfield": "Civil and Structural Engineering"
+    }
+  },
+  {
+    "left": {
+      "id": 1492819,
+      "text": "plant based meat",
+      "field": "Environmental Science",
+      "subfield": "Ecology"
+    },
+    "right": {
+      "id": 1394822,
+      "text": "cultured meat",
+      "field": "Environmental Science",
+      "subfield": "Ecology"
+    }
+  },
+  {
+    "left": {
+      "id": 951604,
+      "text": "detr",
+      "field": "Computer Science",
+      "subfield": "Computer Vision and Pattern Recognition"
+    },
+    "right": {
+      "id": 921892,
+      "text": "rcnn",
+      "field": "Computer Science",
+      "subfield": "Computer Vision and Pattern Recognition"
+    }
+  },
+  {
+    "left": {
+      "id": 1263974,
+      "text": "vision transformer",
+      "field": "Computer Science",
+      "subfield": "Computer Vision and Pattern Recognition"
+    },
+    "right": {
+      "id": 818910,
+      "text": "resnet",
+      "field": "Computer Science",
+      "subfield": "Computer Vision and Pattern Recognition"
+    }
+  },
+  {
+    "left": {
+      "id": 653361,
+      "text": "vit",
+      "field": "Computer Science",
+      "subfield": "Computer Vision and Pattern Recognition"
+    },
+    "right": {
+      "id": 927541,
+      "text": "efficientnet",
+      "field": "Computer Science",
+      "subfield": "Computer Vision and Pattern Recognition"
+    }
+  },
+  {
+    "left": {
+      "id": 529490,
+      "text": "cnn",
+      "field": "Computer Science",
+      "subfield": "Computer Vision and Pattern Recognition"
+    },
+    "right": {
+      "id": 542690,
+      "text": "transformer",
+      "field": "Computer Science",
+      "subfield": "Artificial Intelligence"
+    }
+  },
+  {
+    "left": {
+      "id": 619492,
+      "text": "gan",
+      "field": "Computer Science",
+      "subfield": "Computer Vision and Pattern Recognition"
+    },
+    "right": {
+      "id": 1145222,
+      "text": "diffusion model",
+      "field": "Computer Science",
+      "subfield": "Computer Vision and Pattern Recognition"
+    }
+  },
+  {
+    "left": {
+      "id": 950282,
+      "text": "stylegan",
+      "field": "Computer Science",
+      "subfield": "Computer Vision and Pattern Recognition"
+    },
+    "right": {
+      "id": 940671,
+      "text": "cyclegan",
+      "field": "Computer Science",
+      "subfield": "Computer Vision and Pattern Recognition"
+    }
+  },
+  {
+    "left": {
+      "id": 707629,
+      "text": "sam",
+      "field": "Computer Science",
+      "subfield": "Computer Vision and Pattern Recognition"
+    },
+    "right": {
+      "id": 899264,
+      "text": "yolov5",
+      "field": "Computer Science",
+      "subfield": "Computer Vision and Pattern Recognition"
+    }
+  },
+  {
+    "left": {
+      "id": 1436444,
+      "text": "graph neural network",
+      "field": "Computer Science",
+      "subfield": "Artificial Intelligence"
+    },
+    "right": {
+      "id": 542690,
+      "text": "transformer",
+      "field": "Computer Science",
+      "subfield": "Artificial Intelligence"
+    }
+  },
+  {
+    "left": {
+      "id": 899132,
+      "text": "roberta",
+      "field": "Computer Science",
+      "subfield": "Artificial Intelligence"
+    },
+    "right": {
+      "id": 802963,
+      "text": "bert",
+      "field": "Computer Science",
+      "subfield": "Artificial Intelligence"
+    }
+  },
+  {
+    "left": {
+      "id": 948070,
+      "text": "fasttext",
+      "field": "Computer Science",
+      "subfield": "Artificial Intelligence"
+    },
+    "right": {
+      "id": 912248,
+      "text": "word2vec",
+      "field": "Computer Science",
+      "subfield": "Artificial Intelligence"
+    }
+  },
+  {
+    "left": {
+      "id": 878345,
+      "text": "llama",
+      "field": "Computer Science",
+      "subfield": "Artificial Intelligence"
+    },
+    "right": {
+      "id": 899132,
+      "text": "roberta",
+      "field": "Computer Science",
+      "subfield": "Artificial Intelligence"
+    }
+  },
+  {
+    "left": {
+      "id": 822072,
+      "text": "gpt",
+      "field": "Computer Science",
+      "subfield": "Artificial Intelligence"
+    },
+    "right": {
+      "id": 802963,
+      "text": "bert",
+      "field": "Computer Science",
+      "subfield": "Artificial Intelligence"
+    }
+  },
+  {
+    "left": {
+      "id": 1139219,
+      "text": "federated learning",
+      "field": "Computer Science",
+      "subfield": "Artificial Intelligence"
+    },
+    "right": {
+      "id": 1068051,
+      "text": "transfer learning",
+      "field": "Computer Science",
+      "subfield": "Artificial Intelligence"
+    }
+  },
+  {
+    "left": {
+      "id": 1013950,
+      "text": "reinforcement learning",
+      "field": "Computer Science",
+      "subfield": "Artificial Intelligence"
+    },
+    "right": {
+      "id": 1302860,
+      "text": "imitation learning",
+      "field": "Computer Science",
+      "subfield": "Artificial Intelligence"
+    }
+  },
+  {
+    "left": {
+      "id": 901326,
+      "text": "rag",
+      "field": "Computer Science",
+      "subfield": "Artificial Intelligence"
+    },
+    "right": {
+      "id": 1058291,
+      "text": "fine tuning",
+      "field": "Computer Science",
+      "subfield": "Artificial Intelligence"
+    }
+  },
+  {
+    "left": {
+      "id": 1262895,
+      "text": "homomorphic encryption",
+      "field": "Computer Science",
+      "subfield": "Artificial Intelligence"
+    },
+    "right": {
+      "id": 1490965,
+      "text": "secure multiparty computation",
+      "field": "Computer Science",
+      "subfield": "Artificial Intelligence"
+    }
+  },
+  {
+    "left": {
+      "id": 1231099,
+      "text": "differential privacy",
+      "field": "Computer Science",
+      "subfield": "Artificial Intelligence"
+    },
+    "right": {
+      "id": 1139219,
+      "text": "federated learning",
+      "field": "Computer Science",
+      "subfield": "Artificial Intelligence"
+    }
+  },
+  {
+    "left": {
+      "id": 923318,
+      "text": "ransomware",
+      "field": "Computer Science",
+      "subfield": "Information Systems"
+    },
+    "right": {
+      "id": 881634,
+      "text": "phishing",
+      "field": "Computer Science",
+      "subfield": "Information Systems"
+    }
+  },
+  {
+    "left": {
+      "id": 933152,
+      "text": "kubernetes",
+      "field": "Computer Science",
+      "subfield": "Information Systems"
+    },
+    "right": {
+      "id": 907363,
+      "text": "docker",
+      "field": "Computer Science",
+      "subfield": "Information Systems"
+    }
+  },
+  {
+    "left": {
+      "id": 1115403,
+      "text": "edge computing",
+      "field": "Computer Science",
+      "subfield": "Computer Networks and Communications"
+    },
+    "right": {
+      "id": 1245860,
+      "text": "fog computing",
+      "field": "Computer Science",
+      "subfield": "Computer Networks and Communications"
+    }
+  },
+  {
+    "left": {
+      "id": 633361,
+      "text": "5g",
+      "field": "Engineering",
+      "subfield": "Electrical and Electronic Engineering"
+    },
+    "right": {
+      "id": 814814,
+      "text": "6g",
+      "field": "Engineering",
+      "subfield": "Electrical and Electronic Engineering"
+    }
+  },
+  {
+    "left": {
+      "id": 1144369,
+      "text": "bayesian inference",
+      "field": "Mathematics",
+      "subfield": "Statistics and Probability"
+    },
+    "right": {
+      "id": 1203200,
+      "text": "causal inference",
+      "field": "Computer Science",
+      "subfield": "Artificial Intelligence"
+    }
+  },
+  {
+    "left": {
+      "id": 1309598,
+      "text": "nanopore sequencing",
+      "field": "Biochemistry, Genetics and Molecular Biology",
+      "subfield": "Molecular Biology"
+    },
+    "right": {
+      "id": 1278885,
+      "text": "illumina sequencing",
+      "field": "Biochemistry, Genetics and Molecular Biology",
+      "subfield": "Molecular Biology"
+    }
+  },
+  {
+    "left": {
+      "id": 1416768,
+      "text": "metal organic framework",
+      "field": "Chemistry",
+      "subfield": "Inorganic Chemistry"
+    },
+    "right": {
+      "id": 1457780,
+      "text": "covalent organic framework",
+      "field": "Materials Science",
+      "subfield": "Materials Chemistry"
+    }
+  },
+  {
+    "left": {
+      "id": 1483983,
+      "text": "direct air capture",
+      "field": "Engineering",
+      "subfield": "Mechanical Engineering"
+    },
+    "right": {
+      "id": 1163257,
+      "text": "carbon capture",
+      "field": "Energy",
+      "subfield": "Renewable Energy, Sustainability and the Environment"
+    }
+  },
+  {
+    "left": {
+      "id": 850815,
+      "text": "radiomics",
+      "field": "Medicine",
+      "subfield": "Radiology, Nuclear Medicine and Imaging"
+    },
+    "right": {
+      "id": 956604,
+      "text": "radiogenomics",
+      "field": "Medicine",
+      "subfield": "Radiology, Nuclear Medicine and Imaging"
+    }
+  },
+  {
+    "left": {
+      "id": 1107726,
+      "text": "precision medicine",
+      "field": "Medicine",
+      "subfield": "Cardiology and Cardiovascular Medicine"
+    },
+    "right": {
+      "id": 1092611,
+      "text": "gene therapy",
+      "field": "Medicine",
+      "subfield": "Cardiology and Cardiovascular Medicine"
+    }
+  },
+  {
+    "left": {
+      "id": 859159,
+      "text": "mooc",
+      "field": "Social Sciences",
+      "subfield": "Education"
+    },
+    "right": {
+      "id": 1197116,
+      "text": "flipped classroom",
+      "field": "Social Sciences",
+      "subfield": "Education"
+    }
+  },
+  {
+    "left": {
+      "id": 1144884,
+      "text": "quantum computing",
+      "field": "Physics and Astronomy",
+      "subfield": "Atomic and Molecular Physics, and Optics"
+    },
+    "right": {
+      "id": 1274659,
+      "text": "neuromorphic computing",
+      "field": "Engineering",
+      "subfield": "Electrical and Electronic Engineering"
+    }
+  },
+  {
+    "left": {
+      "id": 1019561,
+      "text": "virtual reality",
+      "field": "Computer Science",
+      "subfield": "Human-Computer Interaction"
+    },
+    "right": {
+      "id": 1053676,
+      "text": "augmented reality",
+      "field": "Computer Science",
+      "subfield": "Human-Computer Interaction"
+    }
+  },
+  {
+    "left": {
+      "id": 870533,
+      "text": "exoplanet",
+      "field": "Physics and Astronomy",
+      "subfield": "Astronomy and Astrophysics"
+    },
+    "right": {
+      "id": 1045902,
+      "text": "black hole",
+      "field": "Physics and Astronomy",
+      "subfield": "Astronomy and Astrophysics"
+    }
+  },
+  {
+    "left": {
+      "id": 1198345,
+      "text": "quantum entanglement",
+      "field": "Physics and Astronomy",
+      "subfield": "Atomic and Molecular Physics, and Optics"
+    },
+    "right": {
+      "id": 1342281,
+      "text": "superconducting qubits",
+      "field": "Physics and Astronomy",
+      "subfield": "Nuclear and High Energy Physics"
+    }
+  },
+  {
+    "left": {
+      "id": 1102498,
+      "text": "renewable energy",
+      "field": "Energy",
+      "subfield": "Renewable Energy, Sustainability and the Environment"
+    },
+    "right": {
+      "id": 1263320,
+      "text": "fossil fuels",
+      "field": "Energy",
+      "subfield": "Fuel Technology"
+    }
+  }
+]
