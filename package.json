@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "d3-cloud": "^1.2.7",
+    "react-wordcloud": "^1.2.7"
+  },
+  "devDependencies": {
+    "@types/d3-cloud": "^1.2.9"
+  }
+}

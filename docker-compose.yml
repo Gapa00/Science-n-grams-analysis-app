@@ -1,0 +1,85 @@
+services:
+  postgres:
+    image: postgres:15
+    environment:
+      POSTGRES_DB: science_ngram_db
+      POSTGRES_USER: science_ngram_user
+      POSTGRES_PASSWORD: science_ngram_password
+    command: >
+      postgres
+      -c max_wal_size=16GB
+      -c wal_compression=on
+      -c checkpoint_timeout=15min
+      -c checkpoint_completion_target=0.9
+      -c wal_buffers=32MB
+      -c shared_buffers=2GB
+      -c effective_cache_size=4GB
+      -c maintenance_work_mem=1GB
+      -c work_mem=256MB
+      -c max_parallel_workers=8
+      -c max_parallel_maintenance_workers=4
+      -c synchronous_commit=off
+      -c fsync=off
+    ports:
+    - "5432:5432"
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U science_ngram_user -d science_ngram_db"]
+      interval: 10s
+      retries: 5
+    shm_size: 1gb
+
+  redis:
+    image: redis:7-alpine
+
+  backend:
+    build:
+      context: ./backend
+    command: uvicorn app.main:app --host 0.0.0.0 --port 8000 --workers 1
+    volumes:
+      - ./backend:/app
+    depends_on:
+      postgres:
+        condition: service_healthy
+      redis:
+        condition: service_started
+    environment:
+      DATABASE_URL: postgresql://science_ngram_user:science_ngram_password@postgres:5432/science_ngram_db
+      PYTHONPATH: /app
+      PYTHONUNBUFFERED: 1
+      PYTHONDONTWRITEBYTECODE: 1
+      USE_ULTRA_FAST_PREPROCESSOR: "true"
+      ULTRA_FAST_CPU_CORES: "4"
+      ULTRA_FAST_CHUNK_SIZE: "100000"
+    # ports:
+    #   - "8000:8000"
+    deploy:
+      resources:
+        limits:
+          memory: 4G
+          cpus: '4.0'
+
+  frontend:
+    build:
+      context: ./frontend
+      args:
+        REACT_APP_API_URL: ""
+    ports:
+      - "8502:80"
+    depends_on:
+      - backend
+      
+  # tunnel:
+  #   image: cloudflare/cloudflared:latest
+  #   # Force HTTP/2 (TCP) instead of QUIC (UDP)
+  #   command: tunnel --no-autoupdate --protocol http2 --url http://frontend:80
+  #   depends_on:
+  #     - frontend
+  #   restart: unless-stopped
+  #   # Remove this line (it was forcing QUIC and causing timeouts)
+  #   # environment:
+  #   #   - TUNNEL_TRANSPORT_PROTOCOL=quic
+
+volumes:
+  postgres_data:
